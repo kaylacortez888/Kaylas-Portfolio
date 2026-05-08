@@ -19,4 +19,14 @@ format:
     theme: cosmo
     css: style.css
     toc: true
-    google-analytics: "G-GXF3VQHDR6"
+    include-in-header:
+      text: |
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-GXF3VQHDR6"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-GXF3VQHDR6');
+        </script>
