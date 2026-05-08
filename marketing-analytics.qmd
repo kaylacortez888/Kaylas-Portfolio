@@ -1,0 +1,13 @@
+---
+title: "marketing analytics"
+format: html
+editor: visual
+---
+
+# NCMA SGV
+
+## Website Traffic & Attribution Analysis
+
+# Marketing Access Scorecard
+
+## Garcia Research MAS Project

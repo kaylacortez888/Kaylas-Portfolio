@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Kayla's Portfolio"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Digital Marketing Analytics"
+        href: digital-marketing.qmd
+      - text: "Marketing Analytics Projects"
+        href: marketing-analytics.qmd
+      - text: "Resume"
+        href: resume.qmd
+format:
+  html:
+    theme: cosmo
+    css: style.css
+    toc: true
