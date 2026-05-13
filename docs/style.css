@@ -1,87 +1,38 @@
-/* ===== GLOBAL WEBSITE + PRESENTATION STYLING ===== */
+/* ===== GLOBAL WEBSITE + REVEALJS STYLING ===== */
 
-/* Website */
+/* Website Background */
 body {
   background-color: #F4F8FC;
   color: #333333;
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
-/* RevealJS Presentation */
-.reveal {
-  background-color: #DCE6F2 !important;
-  color: #333333;
-  font-family: "Helvetica Neue", Arial, sans-serif;
-}
+/* ===== NAVBAR ===== */
 
-/* FIX SLIDE SIZE + CENTERING */
-.reveal .slides {
-  width: 100% !important;
-  height: 100% !important;
-}
-
-.reveal .slides section {
-  width: 100% !important;
-  height: 100% !important;
-  padding: 40px 60px !important;
-  box-sizing: border-box;
-}
-
-/* Headings */
-h1, h2, h3,
-.reveal h1,
-.reveal h2,
-.reveal h3 {
-  color: #143B63;
-  font-weight: 700;
-}
-
-/* Navbar */
 .navbar {
   background-color: #143B63 !important;
 }
 
-/* Navbar Text */
 .navbar a,
 .navbar-brand,
 .navbar-nav .nav-link {
   color: white !important;
 }
 
-/* Navbar Hover */
 .navbar a:hover,
 .navbar-nav .nav-link:hover {
   color: #BFD7FF !important;
 }
 
-/* Callout */
-.callout-note {
-  border-left: 6px solid #4F83FF;
-  background-color: white;
-  border-radius: 12px;
-  padding: 15px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
-}
+/* ===== HEADINGS ===== */
 
-/* Tool Boxes */
-.tool-box,
-.big-insight {
-  background-color: white;
-  border-left: 8px solid #4F83FF;
-  padding: 25px;
-  border-radius: 16px;
-  margin-top: 20px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-}
-
-/* Insight Box */
-.big-insight {
-  font-size: 1.4em;
+h1, h2, h3 {
   color: #143B63;
-  text-align: center;
+  font-weight: 700;
 }
 
-/* About Section */
+/* ===== ABOUT SECTION ===== */
+
 .about-section {
   display: flex;
   align-items: center;
@@ -89,15 +40,13 @@ h1, h2, h3,
   margin-top: 60px;
 }
 
-/* Profile Image */
 .about-image img {
   width: 420px;
-  max-width:none;
+  max-width: none;
   border-radius: 50%;
   object-fit: cover;
 }
 
-/* About Text */
 .about-text {
   max-width: 700px;
 }
@@ -117,7 +66,8 @@ h1, h2, h3,
   line-height: 1.8;
 }
 
-/* Buttons */
+/* ===== BUTTONS ===== */
+
 .custom-button,
 .linkedin-button {
   display: inline-flex;
@@ -134,14 +84,12 @@ h1, h2, h3,
   background-color: white;
 }
 
-/* Hover */
 .custom-button:hover,
 .linkedin-button:hover {
   background-color: #143B63;
   color: white;
 }
 
-/* Containers */
 .button-container,
 .linkedin-container {
   display: flex;
@@ -151,7 +99,18 @@ h1, h2, h3,
   flex-wrap: wrap;
 }
 
-/* Resume */
+/* ===== CALLOUTS ===== */
+
+.callout-note {
+  border-left: 6px solid #4F83FF;
+  background-color: white;
+  border-radius: 12px;
+  padding: 15px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+/* ===== RESUME ===== */
+
 .resume-container {
   max-width: 1100px;
   margin: auto;
@@ -196,7 +155,8 @@ h1, h2, h3,
   line-height: 1.6;
 }
 
-/* Links */
+/* ===== LINKS ===== */
+
 a {
   color: #4F83FF;
 }
@@ -205,3 +165,54 @@ a:hover {
   color: #143B63;
 }
 
+/* ===== REVEALJS PRESENTATION ===== */
+
+.reveal {
+  background-color: #DCE6F2 !important;
+  color: #333333;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+/* Slide Layout */
+.reveal .slides {
+  text-align: left;
+}
+
+.reveal section {
+  padding: 40px 70px;
+  box-sizing: border-box;
+}
+
+/* Presentation Headings */
+.reveal h1,
+.reveal h2,
+.reveal h3 {
+  color: #143B63;
+  font-weight: 700;
+}
+
+/* Presentation Text */
+.reveal p,
+.reveal li {
+  font-size: 0.9em;
+  line-height: 1.3;
+}
+
+/* Presentation Boxes */
+.tool-box {
+  background-color: white;
+  border-left: 6px solid #4F83FF;
+  padding: 18px;
+  border-radius: 12px;
+  margin-bottom: 18px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
+
+.big-insight {
+  background-color: white;
+  border-left: 8px solid #4F83FF;
+  padding: 30px;
+  border-radius: 16px;
+  color: #143B63;
+  text-align: center;
+}
