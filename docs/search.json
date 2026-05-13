@@ -145,5 +145,68 @@
     "title": "Marketing Analytics",
     "section": "Data Analysis",
     "text": "Data Analysis\n\n\nGarcia Research MAS Project\n\nMarketing Accessibility Scorecard also known as MAS, focused on evaluating how brands show accessibility and inclusivity across digital consumer touchpoints.\n\nUsing structured coring framework, brands were evaluated on areas such as website, apps, customer service over the phone, promotion, terms and warning, visual appearance, and follow-up communication. This project help highlight the importance of accessibility and inclusive marketing.\nAnalysis was done by measuring inter-rater reliability using intraclass correlation coefficient (ICC) analysis to evaluate the consistency between elevators. It helped show reliability of MAS framework and identify which dimensions show high agreement in order for it to further help clients in areas that show strong need for improvement.\n\n\n\n\nKey Areas\n\nMarketing Accessibility\nInter-rater reliability (ICC)\nDashboard Visualization\nTableau\nData Visualization"
+  },
+  {
+    "objectID": "Kaylas-Analytics.html",
+    "href": "Kaylas-Analytics.html",
+    "title": "Kayla’s Analytics",
+    "section": "",
+    "text": "This dashboard was created using interactive Looker Studio dashboard using GA4 data to analyze the website engagement, traffic, and to analyze user behavior. The dashboard is using user engagement trends, traffic channel performance, and which devices that users are using to view the website."
+  },
+  {
+    "objectID": "Kaylas-Analytics.html#ga4-website-engagement-analytics-dashboard",
+    "href": "Kaylas-Analytics.html#ga4-website-engagement-analytics-dashboard",
+    "title": "Kayla’s Analytics",
+    "section": "",
+    "text": "Developed an interactive engagement analytics dashboard using Google Analytics 4 and Looker Studio to evaluate website traffic behavior, audience engagement, and device performance."
+  },
+  {
+    "objectID": "Kaylas-Analytics.html#ga4-portfolio-website-analytics",
+    "href": "Kaylas-Analytics.html#ga4-portfolio-website-analytics",
+    "title": "Kayla’s Analytics",
+    "section": "",
+    "text": "This dashboard was created using interactive Looker Studio dashboard using GA4 data to analyze the website engagement, traffic, and to analyze user behavior. The dashboard is using user engagement trends, traffic channel performance, and which devices that users are using to view the website."
+  },
+  {
+    "objectID": "NCMA Slides.html#business-proble",
+    "href": "NCMA Slides.html#business-proble",
+    "title": "NCMA SGV",
+    "section": "Business Proble",
+    "text": "Business Proble\nNCMA SGV wants to understand their user engagement and wanting to reach early career professionals.\n\n\n\n\n\n\nNote\n\n\nThe main goal of doing website analytics is to support them in growing their audience and help with stronger engament."
+  },
+  {
+    "objectID": "NCMA Slides.html#business-problem",
+    "href": "NCMA Slides.html#business-problem",
+    "title": "NCMA SGV",
+    "section": "Business Problem",
+    "text": "Business Problem\nNCMA SGV wants to understand their user engagement and wanting to reach early career professionals.\n\n\n\n\n\n\nNote\n\n\nThe main goal of doing website analytics is to support them in growing their audience and help with stronger engagement."
+  },
+  {
+    "objectID": "NCMA Slides.html#business-problem-1",
+    "href": "NCMA Slides.html#business-problem-1",
+    "title": "NCMA SGV",
+    "section": "Business Problem",
+    "text": "Business Problem\n\n\nKey Questions\n\nAre there users visiting the website?\nWhat channels are they coming from?\nWhich channels show stronger engagement?\n\n\nSo What?\n\nWebsite behavior can help NCMA understand how users are interacting with their webiste and if the retention is good. Because their main goal is to become place where professionals and Gen Z can go to as a professional development resources."
+  },
+  {
+    "objectID": "NCMA Slides.html#analysis",
+    "href": "NCMA Slides.html#analysis",
+    "title": "NCMA SGV",
+    "section": "Analysis",
+    "text": "Analysis\n\n\nWe used GA4 Metrics\n\nSessions\nTotal users\nEngagement Rate\n\nWe also broke it down by\n\nTraffic channel\nDevice category\nCountry"
+  },
+  {
+    "objectID": "NCMA Slides.html#tools-and-what-we-found",
+    "href": "NCMA Slides.html#tools-and-what-we-found",
+    "title": "NCMA SGV",
+    "section": "Tools and What We Found",
+    "text": "Tools and What We Found\n\n\n\nGoogle Analytics 4\nWebsite traffic and engagement data\n\n\nBigQuery\nGA4 event-level data and validation\n\n\nLooker Studio\nInteractive dashboard and visual reporting\n\n\nInsights\n\nDirect traffic generated the highest session volume, but engagement was low.\nOrganic Search and Referral showed stronger engagement.\nNCMA SGV should not only focus on direct traffic volume. Organic Search and Referral should also receive credit because they may support early user interest and improve engaged sessions."
+  },
+  {
+    "objectID": "NCMA Slides.html#insights",
+    "href": "NCMA Slides.html#insights",
+    "title": "NCMA SGV",
+    "section": "Insights",
+    "text": "Insights\n\nDirect traffic generated the highest session volume, but engagement was low.\nOrganic Search and Referral and stronger engagement\n\nNCMA should not just focus on direct traffic volume and should attribute credit to all channels. Areas to strengthen would be Organic Search an Referral in order to improve engaged sessions."
   }
 ]

@@ -1,0 +1,112 @@
+---
+title: "NCMA SGV"
+subtitle: "GA4, BigQuery, and Looker Studio"
+author: "Kayla Cortez"
+date: today
+format: 
+  revealjs:
+    theme: simple
+    width: 1600
+    height: 900
+    slide-number: true
+    transition: slide
+    embed-resources: true
+    css: style.css
+editor: visual
+---
+
+## Business Problem {.title-slide}
+
+NCMA SGV wants to understand their user engagement and wanting to reach early career professionals.
+
+::: callout-note
+The main goal of doing website analytics is to support them in growing their audience and help with stronger engagement.
+:::
+
+---
+
+## Business Problem
+
+::: {.columns}
+
+::: {.column width = "50%"}
+
+### Key Questions
+
+- Are there users visiting the website?
+- What channels are they coming from?
+- Which channels show stronger engagement?
+
+:::
+
+::: {.column width = "50%"}
+
+### So What?
+
+- Website behavior can help NCMA understand how users are interacting with their webiste and if the retention is good. Because their main goal is to become place where professionals and Gen Z can go to as a professional development resources.
+
+:::
+
+::::
+
+---
+
+## Analysis
+
+::: {.columns}
+
+::: {.column width = "50%"}
+
+### We used GA4 Metrics
+
+- Sessions
+- Total users
+- Engagement Rate
+
+We also broke it down by 
+
+- Traffic channel
+- Device category
+- Country
+
+:::
+
+::::
+
+---
+
+
+## Tools and What We Found
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.tool-box}
+**Google Analytics 4**  
+Website traffic and engagement data
+:::
+
+::: {.tool-box}
+**BigQuery**  
+GA4 event-level data and validation
+:::
+
+::: {.tool-box}
+**Looker Studio**  
+Interactive dashboard and visual reporting
+:::
+
+:::
+
+::: {.column width="50%"}
+
+### Insights
+
+- Direct traffic generated the highest session volume, but engagement was low.
+- Organic Search and Referral showed stronger engagement.
+- NCMA SGV should not only focus on direct traffic volume. Organic Search and Referral should also receive credit because they may support early user interest and improve engaged sessions.
+
+:::
+
+::::
