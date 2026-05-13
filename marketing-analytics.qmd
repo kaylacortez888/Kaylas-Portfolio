@@ -8,6 +8,7 @@ Website Traffic & Attribution Analysis
 --- 
 
 ![](NCMA.png)
+
 ### NCMA SGV
 
 - The goal of the NCM SGV project is to analyze website performance, audience engagement, and branch out to membership growth opportunities.
