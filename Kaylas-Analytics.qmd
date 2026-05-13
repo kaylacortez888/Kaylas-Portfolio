@@ -1,0 +1,19 @@
+---
+title: "Kayla's Analytics"
+editor: visual
+---
+
+GA4 Portfolio Website Analytics
+---
+
+This dashboard was created using interactive Looker Studio dashboard using GA4 data to analyze the website engagement, traffic, and to analyze user behavior. The dashboard is using user engagement trends, traffic channel performance, and which devices that users are using to view the website.
+
+<iframe
+width="100%"
+height="600"
+src="https://datastudio.google.com/embed/reporting/7872bfd2-6a1f-4841-b4b9-f7130bcaf3a0/page/N52xF"
+frameborder="0"
+style="border:0"
+allowfullscreen
+sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-forms">
+</iframe>

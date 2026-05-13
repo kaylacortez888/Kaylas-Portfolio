@@ -14,6 +14,9 @@ website:
         href: marketing-analytics.qmd
       - text: "Resume"
         href: resume.qmd
+      - text: "Kayla's Analytics"
+        href: Kaylas-Analytics.qmd
+      
 format:
   html:
     theme: cosmo
