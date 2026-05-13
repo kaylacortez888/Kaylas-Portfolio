@@ -1,13 +1,31 @@
 ---
-title: "marketing analytics"
+title: "Marketing Analytics"
 format: html
 editor: visual
 ---
 
-# NCMA SGV
+Website Traffic & Attribution Analysis
+--- 
 
-## Website Traffic & Attribution Analysis
+![](NCMA.png)
+### NCMA SGV
 
-# Marketing Access Scorecard
+- The goal of the NCM SGV project is to analyze website performance, audience engagement, and branch out to membership growth opportunities.
+  - By using GA4, BigQuery, Looker Studio, and Google Search Console we are able to look into user behavior, engagement rates, and audience retention.
+  - The analysis focused on traffic channels, landing pages, devices, and audience segments and how this contributed differently to engagement. This helped identify opportunities for website optimization and long-term audience reach.
+  
+### Key Areas
 
-## Garcia Research MAS Project
+1. Marketing Analytics
+2. GA4
+3. BigQuery
+4. Looker Studio
+5. Attribution Analysis
+
+
+Data Analysis
+---
+![](MAS.png)
+
+### Garcia Research MAS Project
+

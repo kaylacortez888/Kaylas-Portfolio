@@ -1,5 +1,63 @@
 ---
-title: "resume"
+title: "Resume"
 format: html
 editor: visual
 ---
+
+ckayla888@gmail.com |
+linkedin.com/in/kayla-cortez-515b31218
+
+Education
+---
+
+- University of California, Merced      - Completed in May 2024
+- B.A. in Global Art Studies
+
+Work and Volunteer Experience
+---
+
+### UC Irvine Langson Orange County Museum of Art
+- December 2024 - Current
+- Engagement Guide 
+ - Proactively engage with visitors in the galleries, encouraging open-ended conversation and creating a deeper appreciation for the artworks.
+  - Helped facilitate the MAKE Program that guided guests to create their own original artworks by using similar materials and techniques inspired by past exhibition artists. 
+  
+### UC Merced Office of Student Rights and Responsibilities
+- August 2023 - May 2024
+- Media and Marketing Intern
+  - Created promotional materials leading to a 43% increase in event attendance using Adobe Illustrator and Canva, including the tenth annual Integrity Weeks.
+  - Developed and produced a video guide for our new office location on campus using Adobe After Effects and Procreate, garnering over 8,000 views.
+### 3PM Marketing                        - May 2025 - Current
+- Freelance Photography Assistant
+  - Support content production through managing equipment setup, breakdown, and tracking equipment.
+
+### La Brea Tar Pits & Museum            - September 2024 - November 2024
+- Interpretive Volunteer
+  - Engaged visitors by making complex scientific information accessible and inspiring curiosity.
+  - Continuously keep up to date on the ongoing discovery of Project 23, an on-site project at the La Brea Tar Pits & Museums, providing accurate information.
+  
+### UC Merced La Galería			            - February 2024 - May 2024
+- Intern
+  - Tracked curated artwork for the Bobcat Art Show, maintaining accurate documentation and inventory by using Google Sheets.
+  - Assisted in artwork preparation, including framing and measuring dimensions, ensuring proper preservation and presentation.
+  
+### UC Merced Art Gallery                - August 2023 - May 2024 
+- Intern
+  - Produced educational videos such as the Day of the Dead Exhibit with historical context to enhance the visitor's experience.
+  
+Projects
+---
+
+### Trauma Resource Institute
+- September 2025 - December 2025
+- Email Campaign Intern
+Recommended accessible email design improvements to increase user engagement using Canva, Google Docs, and MailChimp to contribute to End-of-Year Scholarship Fund strategy.
+### Wellness Ranch Therapy
+- February 2026 - Current
+- Local SEO Strategy Intern
+  - Improving local search visibility through SEO optimization strategies using SEMrush to not only rank on traditional search engines, but also AI platforms (Open AI, Gemini, and more).
+
+### Natural History Museum of Los Angeles County
+- October 2024 - November 2024
+- Archive Volunteer
+  - Reviewed and verified AI-generated transcriptions of handwritten journals, field notes, and collection records. Using FromThePage, a crowdsourcing platform for archives and libraries.

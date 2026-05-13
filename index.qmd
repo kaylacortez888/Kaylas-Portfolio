@@ -4,6 +4,7 @@ format: html
 editor: visual
 ---
 
+```{=html}
 <style>
 .about-section{
 display: flex;
@@ -32,28 +33,51 @@ line-height: 1.8;
 }
 
 </style>
-<div class = "about-section">
-<div class = "about-image">
-![](IMG_4028.PNG)
+```
 
-</div>
+:::: about-section
+::: about-image
+![](kayla.PNG)
+:::
 
 # Kayla Cortez
 
-### Digital Marketing | Marketing Analytics | Museum Engagement Guide
+### Digital Marketing \| Marketing Analytics \| Museum Engagement Guide
 
 I am currently a Digital Marketing graduate at Cal Poly Pomona with my background focused in engagement at museums, marketing analytics, and expanding outreach. I plan to use what I have learned from the Digital Marketing program and apply it to nonprofit organizations and reach future visitors who are curious and enjoy art.
+::::
 
+------------------------------------------------------------------------
 
-</div class = "center-line">
+```{=html}
+<style>
 
----
-<div class= "linkedin-center">
+.linkedin-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
 
-<a href="https://www.linkedin.com/in/kayla-cortez-515b31218/" target="_blank">
+.linkedin-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 24px;
+  border: 2px solid #5c6570;
+  border-radius: 20px;
+  text-decoration: none;
+  color: #5c6570;
+  font-size: 1.3rem;
+  font-weight: 500;
+}
 
-<img src = "LinkedIn_logo_initials.png" width ="70">
+.linkedin-button img {
+  display: block;
+}
 
-</a>
+</style>
+```
 
-</div>
+::: linkedin-container
+<a href="https://www.linkedin.com/in/kayla-cortez-515b31218/" target="_blank" class="linkedin-button"><img src="LinkedIn_logo_initials.png" width="25"/>LinkedIn</a>
+:::
