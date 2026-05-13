@@ -85,14 +85,16 @@ h1, h2, h3,
 .about-section {
   display: flex;
   align-items: center;
-  gap: 60px;
-  margin-top: 40px;
+  gap: 80px;
+  margin-top: 60px;
 }
 
 /* Profile Image */
 .about-image img {
-  width: 300px;
+  width: 420px;
+  max-width:none;
   border-radius: 50%;
+  object-fit: cover;
 }
 
 /* About Text */
