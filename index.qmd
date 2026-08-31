@@ -1,83 +1,33 @@
 ---
-title: "Home"
+title: ""
 format: html
 editor: visual
+page-layout: full
 ---
 
-```{=html}
-<style>
-.about-section{
-display: flex;
-align-tems: center;
-gap: 60 px;
-margin-top: 40;
-}
+:::: {.about-section}
 
-about-image img{
-width 400 px;
-border-radius: 50%;
-}
-
-about-text {
-max-width: 600 px;
-}
-
-.about-text h1 {
-font-size 4rem;
-margin-bottm: 30 px;
-}
-
-.about-text p{
-font-size 1.4rem;
-line-height: 1.8;
-}
-
-</style>
-```
-
-:::: about-section
-::: about-image
+::: {.about-image}
 ![](kayla.PNG)
 :::
 
+::: {.about-text}
+
 # Kayla Cortez
 
-### Digital Marketing \| Marketing Analytics \| Museum Engagement Guide
+<p class="eyebrow">Digital Marketing • Analytics • Museums</p>
 
-I am currently a Digital Marketing graduate at Cal Poly Pomona with my background focused in engagement at museums, marketing analytics, and expanding outreach. I plan to use what I have learned from the Digital Marketing program and apply it to nonprofit organizations and reach future visitors who are curious and enjoy art.
-::::
+I am a Digital Marketing graduate from Cal Poly Pomona with a background in museum engagement, marketing analytics, and digital content.
 
-------------------------------------------------------------------------
+I'm interested in using marketing to help arts and nonprofit organizations expand their outreach and connect with new audiences.
 
-```{=html}
-<style>
+<div class="linkedin-container">
+<a href="https://www.linkedin.com/in/kayla-cortez-515b31218/" 
+   target="_blank" 
+   class="linkedin-button">
+<img src="LinkedIn_logo_initials.png" width="22">
+LinkedIn
+</a>
+</div>
 
-.linkedin-container {
-  display: flex;
-  justify-content: center;
-  margin-top: 40px;
-}
-
-.linkedin-button {
-  display: inline-flex;
-  align-items: center;
-  gap: 12px;
-  padding: 14px 24px;
-  border: 2px solid #5c6570;
-  border-radius: 20px;
-  text-decoration: none;
-  color: #5c6570;
-  font-size: 1.3rem;
-  font-weight: 500;
-}
-
-.linkedin-button img {
-  display: block;
-}
-
-</style>
-```
-
-::: linkedin-container
-<a href="https://www.linkedin.com/in/kayla-cortez-515b31218/" target="_blank" class="linkedin-button"><img src="LinkedIn_logo_initials.png" width="25"/>LinkedIn</a>
 :::

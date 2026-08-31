@@ -3,25 +3,41 @@ project:
   output-dir: docs
   
 website:
-  title: "Kayla's Portfolio"
+  title: "Kayla Cortez"
+
   navbar:
-    left:
+    right:
       - text: "Home"
         href: index.qmd
-      - text: "Digital Marketing Analytics"
-        href: digital-marketing.qmd
-      - text: "Marketing Analytics Projects"
-        href: marketing-analytics.qmd
+
+      - text: "Portfolio"
+        menu:
+
+          - text: "Marketing Analytics"
+            href: marketing-analytics.qmd
+            
+          - text: "Marketing Analytics"
+            href: digital-marketing.qmd
+
+          - text: "Photography"
+            href: photography.qmd
+
+          - text: "Videography"
+            href: videography.qmd
+
       - text: "Resume"
         href: resume.qmd
-      - text: "Kayla's Analytics"
+      
+      - text: "Analytics"
         href: Kaylas-Analytics.qmd
+        
       
 format:
   html:
     theme: cosmo
     css: style.css
     toc: true
+
     include-in-header:
       text: |
         <!-- Google tag (gtag.js) -->
